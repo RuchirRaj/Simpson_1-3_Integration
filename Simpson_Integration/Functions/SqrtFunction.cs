@@ -1,6 +1,6 @@
-using Ruchir.CP_Assignment.raminrahimzada;
+using Ruchir.Simpson_Integration.raminrahimzada;
 
-namespace Ruchir.CP_Assignment
+namespace Ruchir.Simpson_Integration
 {
     /// <summary>
     ///     Contains our sample function (sqrt(x) in our case)

@@ -1,4 +1,4 @@
-namespace Ruchir.CP_Assignment
+namespace Ruchir.Simpson_Integration
 {
     /// <summary>
     ///     Contains our sample function ((1/x) in our case)

@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 
-namespace Ruchir.CP_Assignment
+namespace Ruchir.Simpson_Integration
 {
     internal class Program
     {

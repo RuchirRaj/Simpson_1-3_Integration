@@ -1,4 +1,4 @@
-namespace Ruchir.CP_Assignment
+namespace Ruchir.Simpson_Integration
 {
     /// <summary>
     ///     All custom function must implement this

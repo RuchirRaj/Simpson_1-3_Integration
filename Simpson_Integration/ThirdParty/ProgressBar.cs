@@ -2,7 +2,7 @@ using System;
 using System.Text;
 using System.Threading;
 
-namespace Ruchir.CP_Assignment
+namespace Ruchir.Simpson_Integration
 {
     /// <summary>
     ///     An ASCII progress bar

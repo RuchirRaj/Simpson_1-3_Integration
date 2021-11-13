@@ -1,6 +1,6 @@
 using System;
 
-namespace Ruchir.CP_Assignment
+namespace Ruchir.Simpson_Integration
 {
     // ReSharper disable once IdentifierTypo
     namespace raminrahimzada

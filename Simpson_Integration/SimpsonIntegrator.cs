@@ -1,4 +1,4 @@
-namespace Ruchir.CP_Assignment
+namespace Ruchir.Simpson_Integration
 {
     /// <summary>
     ///     Contains Simpson 1/3 integration rule
